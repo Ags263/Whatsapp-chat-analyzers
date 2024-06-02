@@ -9,3 +9,4 @@ textblob
 fpdf
 firebase
 streamlit_option_menu
+firebase_admin 
